@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1,The Hobbit Battle of Five Armies
+http://23.147.64.113/movies/Other/The%20Hobbit%20The%20Battle%20of%20the%20Five%20Armies%20%282014%29%20%28Extended%20Cut%29.mkv
+#EXTINF:-1, US: FOX News
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/105722.ts
+#EXTINF:-1, US: FOX NEWS CHANNEL
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/105724.ts
+#EXTINF:-1, CNN
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/31216.ts
+#EXTINF:-1, US: MSNBC
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/61478.ts
+#EXTINF:-1, Avatar: The Way of Water (2022)
+http://jbtvpremium.hostin.tv:25461//movie/chrislineberger/3363099160/175038.mkv
+#EXTINF:-1, 24/7 PREDATOR MOVIES
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/161538.ts
+#EXTINF:-1, 24/7 STARGATE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620bfa7df72827000703ddb1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1, 24/7 STARGATE ATLANTIS
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/116262.ts
+#EXTINF:-1, 24/7 MIKE TYSON
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/116222.ts
+#EXTINF:-1, 24/7 KUNG-FU
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/116207.ts
+#EXTINF:-1, 24/7 DENZEL WASHINGTON
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/161518.ts
+#EXTINF:-1, 24/7 BRUCE LEE
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/161516.ts
+#EXTINF:-1, 24/7 ARNOLD SCHWARZENEGGER
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/161513.ts
+#EXTINF:-1, 24/7 EDDIE MURPHY
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/161521.ts
+#EXTINF:-1, 24/7 MARVEL INFINITY WARS
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/161536.ts
+#EXTINF:-1, 24/7 TRANSFORMERS
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/161549.ts
+#EXTINF:-1, 24/7 LORD OF THE RINGS
+http://jbtvpremium.hostin.tv:25461//live/chrislineberger/3363099160/161526.ts

@@ -1,0 +1,491 @@
+#EXTM3U
+#EXTINF:-1, Lord of the Rings3
+http://23.147.64.113/movies/Other/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%20%282003%29.mkv
+#EXTINF:-1, Lord of the Rings2
+http://23.147.64.113/movies/Other/The%20Lord%20of%20the%20Rings%20The%20Two%20Towers%20%282002%29.mkv
+#EXTINF:-1, Lord of the Rings1
+http://23.147.64.113/movies/Other/The%20Lord%20of%20the%20Rings%20The%20Fellowship%20of%20the%20Ring%20%282001%29.mkv
+#EXTINF:-1, Hobbit Unexpected Journey 
+http://23.147.64.113/movies/Other/The%20Hobbit%20An%20Unexpected%20Journey%20%282012%29%20%28Extended%20Cut%29.mkv
+#EXTINF:-1 tvg-logo="https://metvcdn.metv.com/TGOaE-1489697693-772-lists-kungfu_main.png" group-title="Groups", 24/7 KUNG-FU
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/116207.ts
+#EXTINF:-1 tvg-logo="https://hips.hearstapps.com/esquireuk.cdnds.net/17/23/1496833070-mike-tyson.jpg" group-title="Groups", 24/7 MIKE TYSON
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/116222.ts
+#EXTINF:-1 tvg-logo="http://www.gstatic.com/tv/thumb/tvbanners/185051/p185051_b_v8_ac.jpg" group-title="Groups", 24/7 STARGATE ATLANTIS
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/116262.ts
+#EXTINF:-1 tvg-logo="https://i2-prod.mirror.co.uk/incoming/article16517124.ece/ALTERNATES/s615b/0_star_trek_logo_20090511_750w.jpg" group-title="Groups", 24/7 STAR TREK MOVIES
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161544.ts
+#EXTINF:-1 tvg-logo="http://caxtoncollegeyear6.caxtoncollege.com/wp-content/uploads/2015/12/star-wars-episode-7-image.jpg" group-title="Groups", 24/7 STAR WARS
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161545.ts
+#EXTINF:-1 tvg-logo="https://cdn.arstechnica.net/wp-content/uploads/2018/04/aveng-infinwar-logo.jpg" group-title="Groups", 24/7 MARVEL INFINITY WARS
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161536.ts
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/blG9C2voVSQlC8M1JkJZgo7BvCL.jpg" group-title="Groups", The Mandalorian - S03E08 - Chapter 24: The Return
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/176734.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/38blBPXRWevBgwa4XPVZkc2mMCO.jpg" group-title="Groups", The Mandalorian - S03E07 - Chapter 23: The Spies
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/176071.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tIbTlMWkVBFUeUT76FXWb6jzteW.jpg" group-title="Groups", The Mandalorian - S03E06 - Chapter 22: Guns For Hire
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/175719.mkv
+#EXTINF:-1 tvg-logo="https://static2.srcdn.com/wordpress/wp-content/uploads/2016/08/hobbit-lord-rings-extended-editions.jpg" group-title="Groups", 24/7 LORD OF THE RINGS
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161526.ts
+#EXTINF:-1 tvg-logo="http://thatraveller.com/wp-content/uploads/2016/07/paul-walker-fast-and-furious-1024x696.jpg" group-title="Groups", 24/7 FAST N FURIOUS
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161522.ts
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/jamesbond/images/d/d0/Best-movie-logo-designs-3-1024x512.png/revision/latest?cb=20160102083941" group-title="Groups", 24/7 JAMES BOND 007 MOVIES
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161527.ts
+#EXTINF:-1 tvg-logo="https://cdn3.movieweb.com/i/article/QE2POpFAofN3nv8EUN8sUFpTOytWkb/798:50/Lethal-Weapon-5-Announcement-Joe-Pesci.jpg" group-title="Groups", 24/7 LETHAL WEAPON MOVIES
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161533.ts
+#EXTINF:-1 tvg-logo="https://www.dreadcentral.com/wp-content/uploads/2018/06/Predator-1.jpg" group-title="Groups", 24/7 PREDATOR MOVIES
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161538.ts
+#EXTINF:-1 tvg-logo="https://cbsnews1.cbsistatic.com/hub/i/r/2014/06/27/c0123b97-a0d0-4a6b-a2aa-7654265cea23/resize/620x465/cc04309d2392b07610f733902a2d0e94/transformersgallery.jpg" group-title="Groups", 24/7 TRANSFORMERS
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161549.ts
+#EXTINF:-1 tvg-logo="https://observer.com/wp-content/uploads/sites/2/2018/06/59542417c9e04.jpg?quality=80" group-title="Groups", 24/7 X-MEN MOVIES
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161553.ts
+#EXTINF:-1 tvg-logo="http://s3.amazonaws.com/digitaltrends-uploads-prod/2016/05/arnold-schwarzenegger-predator.jpg" group-title="Groups", 24/7 ARNOLD SCHWARZENEGGER
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161513.ts
+#EXTINF:-1 tvg-logo="https://theunboundedspirit.com/wp-content/uploads/2017/12/bruce-lee-philosophy.jpg" group-title="Groups", 24/7 BRUCE LEE
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161516.ts
+#EXTINF:-1 tvg-logo="https://consequenceofsound.net/wp-content/uploads/2019/10/training-day.png?w=807" group-title="Groups", 24/7 DENZEL WASHINGTON
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161518.ts
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2UWD2uxIOis/maxresdefault.jpg" group-title="Groups", 24/7 BRUCE WILLIS
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161517.ts
+#EXTINF:-1 tvg-logo="https://img1.looper.com/img/gallery/jumanji-welcome-to-the-jungle-first-look-photo-brings-the-gang-back-together/intro-1552490209.jpg" group-title="Groups", 24/7 DWAYNE JOHNSON
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161520.ts
+#EXTINF:-1 tvg-logo="https://www.slashfilm.com/wp/wp-content/images/indiana-jones-5-details.jpg" group-title="Groups", 24/7 HARRISON FORD
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161525.ts
+#EXTINF:-1 tvg-logo="https://archive.org/download/jurassic-park-logo-png/eddie%20murphy.jpg" group-title="Groups", 24/7 EDDIE MURPHY
+http://jbtvpremium.hostin.tv:25461//live/drobin12/RE044SH521/161521.ts
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP Anal Ebony Threesome
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124702.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP BrutalClips Sadie begs for a big black cock - XVIDEOS.COM
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124703.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP CLUB Anal Booty threesome in the pool
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124704.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP CLUB Bitch Olivia Winters gets anal creampie
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124705.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP CLUB Busty Ebony babe Creampie by big black dick
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124706.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP Club Sexy Ebony Creampie enjoys BBC
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124711.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP CLUB Serena Ali Anal
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124710.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP CLUB Phat ass Ebony Slut Butterfly Anal fucked by BBC - 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124709.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP CLUB Ebony Babe Bella Moretti goes wild for a Creampie -
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124708.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP CLUB Double Creampie
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124707.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP CLUB Sexy Ebony takes Creampie for dessert
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124712.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP Club Sierra Bancum gets a black creampie
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124713.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP CLUB Skinny Anal Bitch
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124714.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP CLUB Tight Anal BBC Creampie
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124715.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP CLUB West Coast Black on Black
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124716.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP Skin Diamond and Lisa Ann fuck
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124721.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP Horny black milf mom with huge tits gets it
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124720.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP Helping out the white housewife neighbour
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124719.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP Ebony pornstar Bella Moretti gets anal
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124718.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP Destiny Nyomi Banxxx
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124717.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP Smoking Hot Sadie Takes Massive Dong
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124722.mp4
+#EXTINF:-1 tvg-logo="https://cdn5.f-cdn.com/contestentries/850029/20987117/57e2d30425e77_thumb900.jpg" group-title="Groups", WCP Stunning black babe gets her round big
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/124723.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_308
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28049.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_309
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28050.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_310
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28051.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_311
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28052.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_312
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28053.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_317
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28058.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_316
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28057.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_315
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28056.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_314
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28055.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_313
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28054.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_318
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28059.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_319
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28060.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_320
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28061.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_321
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28062.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_322
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28063.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_327
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28068.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_326
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28067.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_325
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28066.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_324
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28065.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_323
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28064.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_328
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28069.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_329
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28070.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_330
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28071.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_332
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28073.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_333
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28074.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_339
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28080.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_338
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28079.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_337
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28078.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_335
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28076.mkv
+#EXTINF:-1 group-title="Groups", xXx_Adult_334
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28075.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_340
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28081.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_341
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28082.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_342
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28083.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_343
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28084.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_344
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28085.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_352
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28093.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_350
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28091.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_348
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28089.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_347
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28088.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_345
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28086.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_471
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28212.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_472
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28213.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_473
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28214.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_474
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28215.mp4
+#EXTINF:-1 group-title="Groups", xXx_Adult_475
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28216.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20adria%20rae%20and%20danica%20dillon.jpg" group-title="Groups",  adria rae and danica dillon 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29275.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20alaina%20dawson.jpg" group-title="Groups",  alaina dawson 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29276.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20alaina%20kristar.jpg" group-title="Groups",  alaina kristar 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29277.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20alex%20chance.jpg" group-title="Groups",  alex chance 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29279.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20alexa%20grace.jpg" group-title="Groups",  alexa grace 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29278.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20alison%20rey.jpg" group-title="Groups",  alison rey 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29284.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20alina%20west3.jpg" group-title="Groups",  alina west3 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29283.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20alina%20west2.jpg" group-title="Groups",  alina west2 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29282.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20alina%20west.jpg" group-title="Groups",  alina west 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29281.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20alice%20march.jpg" group-title="Groups",  alice march 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29280.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20alli%20rae.jpg" group-title="Groups",  alli rae 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29285.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20angel%20del%20rey.jpg" group-title="Groups",  angel del rey 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29286.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20angel%20malls.jpg" group-title="Groups",  angel malls 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29287.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20anya%20and%20jenna.jpg" group-title="Groups",  anya and jenna 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29288.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20ariana%20grand.jpg" group-title="Groups",  ariana grand 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29289.mp4
+#EXTINF:-1 group-title="Groups",  cali parks 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29294.mp4
+#EXTINF:-1 group-title="Groups",  brittany hae 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29293.mp4
+#EXTINF:-1 group-title="Groups",  bree mitchells 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29292.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20bailey%20brooke.jpg" group-title="Groups",  bailey brooke 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29291.mp4
+#EXTINF:-1 tvg-logo="http://5.9.142.21/Moviez/FamilyStrokes/%20aspen%20ora.jpg" group-title="Groups",  aspen ora 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29290.mp4
+#EXTINF:-1 group-title="Groups",  elektra rose 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29295.mp4
+#EXTINF:-1 group-title="Groups",  elektra rose2 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29296.mp4
+#EXTINF:-1 group-title="Groups",  emma toned 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29297.mp4
+#EXTINF:-1 group-title="Groups",  gigi flamez 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29298.mp4
+#EXTINF:-1 group-title="Groups",  goldie rush 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29299.mp4
+#EXTINF:-1 group-title="Groups",  jade nile 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29304.mp4
+#EXTINF:-1 group-title="Groups",  iggy amore 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29303.mp4
+#EXTINF:-1 group-title="Groups",  hope howell 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29302.mp4
+#EXTINF:-1 group-title="Groups",  hollie mack2 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29301.mp4
+#EXTINF:-1 group-title="Groups",  hollie mack 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29300.mp4
+#EXTINF:-1 group-title="Groups",  joseline kelly 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29305.mp4
+#EXTINF:-1 group-title="Groups",  keisha grey 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29306.mp4
+#EXTINF:-1 group-title="Groups",  kelly green 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29307.mp4
+#EXTINF:-1 group-title="Groups",  lucy doll 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29308.mp4
+#EXTINF:-1 group-title="Groups",  mandy muse 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29309.mp4
+#EXTINF:-1 group-title="Groups",  michelle martinez 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29314.mp4
+#EXTINF:-1 group-title="Groups",  melissa may 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29313.mp4
+#EXTINF:-1 group-title="Groups",  marsha may 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29312.mp4
+#EXTINF:-1 group-title="Groups",  marissa mae2 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29311.mp4
+#EXTINF:-1 group-title="Groups",  marissa mae 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29310.mp4
+#EXTINF:-1 group-title="Groups",  michelle martinez2 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29315.mp4
+#EXTINF:-1 group-title="Groups",  mila jade 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29316.mp4
+#EXTINF:-1 group-title="Groups",  miranda miller 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29317.mp4
+#EXTINF:-1 group-title="Groups",  molly manson 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29318.mp4
+#EXTINF:-1 group-title="Groups",  natalia tarr 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29319.mp4
+#EXTINF:-1 group-title="Groups",  sophia wilde 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29324.mp4
+#EXTINF:-1 group-title="Groups",  scarlett fever 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29323.mp4
+#EXTINF:-1 group-title="Groups",  sadie pop 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29322.mp4
+#EXTINF:-1 group-title="Groups",  penny nichols 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29321.mp4
+#EXTINF:-1 group-title="Groups",  nina elle 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29320.mp4
+#EXTINF:-1 group-title="Groups",  sophie ativa 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29325.mp4
+#EXTINF:-1 group-title="Groups",  taylor reed 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29327.mp4
+#EXTINF:-1 group-title="Groups",  tomi taylor 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29328.mp4
+#EXTINF:-1 group-title="Groups",  trinity tclair 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29329.mp4
+#EXTINF:-1 group-title="Groups",  trisha parks 
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29330.mp4
+#EXTINF:-1 group-title="Groups", A Summer Day - 2006
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29326.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_131
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28870.mkv
+#EXTINF:-1 group-title="Groups", xXx_HardCore_132
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28871.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_133
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28872.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_134
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28873.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_135
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28874.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_141
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28879.mkv
+#EXTINF:-1 group-title="Groups", xXx_HardCore_140
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28878.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_139
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28877.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_138
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28876.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_137
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28875.mkv
+#EXTINF:-1 group-title="Groups", xXx_HardCore_142
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28880.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_143
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28881.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_144
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28882.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_145
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28883.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_146
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28884.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_048
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28889.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_xXx_TightPuss_
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28888.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_xXx_HardCore_
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28887.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_xXx_Adult_
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28886.mp4
+#EXTINF:-1 group-title="Groups", xXx_HardCore_147
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28885.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_049
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28890.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_050
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28891.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_051
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28892.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_052
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28893.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_053
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28894.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_058
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28899.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_057
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28898.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_056
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28897.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_055
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28896.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_054
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28895.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_059
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28900.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_060
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28901.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_062
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28903.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_063
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28904.mp4
+#EXTINF:-1 group-title="Groups", xXx_SuckMe_064
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28905.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_338
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28969.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_339
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28970.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_337
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28968.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_336
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28967.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_335
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28966.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_330
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28961.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_331
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28962.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_332
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28963.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_333
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28964.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_334
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28965.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_457
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28980.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_456
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28979.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_455
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28978.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_346
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28977.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_345
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28976.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_340
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28971.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_341
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28972.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_342
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28973.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_343
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28974.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightAss_344
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/28975.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightPussy_727
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29092.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightPussy_726
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29091.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightPussy_725
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29090.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightPussy_720
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29085.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightPussy_721
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29086.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightPussy_722
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29087.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightPussy_723
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29088.mp4
+#EXTINF:-1 group-title="Groups", xXx_TightPussy_724
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/29089.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/or1gBugydmjToAEq7OZY0owwFk.jpg" group-title="Groups", Braveheart (1995)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/194564.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cc9YAZq5NXiIEJsHjW7p2FaHQkp.jpg" group-title="Groups", Boomerang (1992)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/177389.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zEZY1htzRos2w0W3T7o7W1WJhp.jpg" group-title="Groups", Casino (1995)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/194567.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxhsdC8wuGgQf0gKCt8wyHHxGcQ.jpg" group-title="Groups", Dragon: The Bruce Lee Story (1993)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/183647.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg" group-title="Groups", Enemy of the State (1998)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/175940.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uu2gBpFElDfxTI6BI9bT4pZ4kvw.jpg" group-title="Groups", Eraser (1996)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/159322.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg" group-title="Groups", GoodFellas (1990)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/159323.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vPYZzMy9YyqDryETRVeILJ4ELq.jpg" group-title="Groups", House Party (1990)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/176324.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4iKDkzUZtS6vzINfbwYHAb1bNbA.jpg" group-title="Groups", House Party 2 (1991)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/176322.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLUgvHO3vVLkzKs3OcYksGPbLnA.jpg" group-title="Groups", House Party 3 (1994)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/176323.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ewbLUXvm4riZL0aepy90o0vMesn.jpg" group-title="Groups", Jackie Brown (1997)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/176484.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMTrgEhGrHzin07P5G6BPVw9XuW.jpg" group-title="Groups", Life (1999)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/176074.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tQqAXYTBfSgaqOJcZ47sokXDZlR.jpg" group-title="Groups", Malcolm X (1992)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/183665.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bN57Rl003E9pYred5kw9Rp8h9Np.jpg" group-title="Groups", Money Talks (1997)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/194595.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgckcpAiBrI5l78MrxCw2ZakycU.jpg" group-title="Groups", Problem Child (1990)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/183619.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npr7j2HuRgvsKrXLIxIiXevTH8A.jpg" group-title="Groups", Problem Child 2 (1991)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/183618.avi
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg" group-title="Groups", The Rock (1996)
+http://jbtvpremium.hostin.tv:25461//movie/drobin12/RE044SH521/175942.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tDF0LYckt1MS57GDaMJTH1Cnc4A.jpg" group-title="Groups", The Mandalorian - S03E05 - Chapter 21: The Pirate
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/175219.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jtH7v1yusbC0Lj3jAT8W2aEbbW3.jpg" group-title="Groups", The Mandalorian - S03E04 - Chapter 20: The Foundling
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/174843.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/zgj0iZUYNIZh0NbPVdNEdTacfwv.jpg" group-title="Groups", The Mandalorian - S03E03 - Chapter 19: The Convert
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/174617.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/cTFCkXR6fl6ElWQTE2efODHdW96.jpg" group-title="Groups", The Mandalorian - S03E01 - Chapter 17: The Apostate
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/173562.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/yR3pIsArgHpyeGScXHKqj8hGRBo.jpg" group-title="Groups", The Mandalorian - S03E02 - Chapter 18: The Mines of Mandalore
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/174287.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/47WcAv4SUpUrgvI2hQ92p8ZJbXK.jpg" group-title="Groups", Star Trek: Picard - S03E10 - The Last Generation
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/176782.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/oMAZoWEZQ2OKCKpL26PmUw6NMZM.jpg" group-title="Groups", Star Trek: Picard - S03E09 - Vox
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/176242.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/fMgCEUa1H1f0VmUfVSgcRU1MpEA.jpg" group-title="Groups", Star Trek: Picard - S03E08 - Surrender
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/175736.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/uZgKNVPOYtOhn5VTJrYXSPdKbHv.jpg" group-title="Groups", Star Trek: Picard - S03E07 - Dominion
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/175360.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tUPFKtRIf8F9i2svf3LE5bqR9Ax.jpg" group-title="Groups", Star Trek: Picard - S03E06 - Bounty
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/174856.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/l1Suoop43511cdohvrQ8kIx2vRc.jpg" group-title="Groups", Star Trek: Picard - S03E05 - Imposters
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/174639.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/b5J9q6byFSTnsrbnGu2mtULHm31.jpg" group-title="Groups", Star Trek: Picard - S03E04 - No Win Scenario
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/174348.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/6NcB1l37laa9gAEaks5hYJzIH4A.jpg" group-title="Groups", Star Trek: Picard - S03E03 - Seventeen Seconds
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/173668.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/xZX5x1OVz6uMxx5jg2yDqor1PZe.jpg" group-title="Groups", Star Trek: Picard - S03E02 - Disengage
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/173034.mkv
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/fNqxIaorxkC7gnyMqMFGMqNzMFB.jpg" group-title="Groups", Star Trek: Picard - S03E01 - The Next Generation
+http://jbtvpremium.hostin.tv:25461//series/drobin12/RE044SH521/172828.mkv
